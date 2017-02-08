@@ -65,7 +65,7 @@ namespace HelperMethods
 
         }
 
-        private static string ReverseString(string message)
+        private static string ReverseString (string message)
         {
            // string message = "Hello world!";
 
