@@ -79,7 +79,6 @@ namespace UnderstandingLINQ
             Console.ReadLine();
         }
 
-
     }
 
     class Car
